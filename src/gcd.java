@@ -43,8 +43,8 @@ public class gcd {
     }
     /** the GCD of any of two number is found by calling gcdTwonum method
      * the GCD of a group of numbers doesn't change
-     * the gcd of two number is the same for one of the numbers and a different number
-     * else the gcd between that number and the different number becomes the new gcd
+     * the gcd of two numbers is the same for one of the numbers and a different number,
+     * else the gcd between that number and a different number becomes the new gcd
      */
     public static int GCDofArray(int... numbers){
 
